@@ -9,4 +9,6 @@ Things to note:
 - block `/* */` comments are not accounted for
 - missing comment recognition for certain languages
 
+How to use: download & run `python3 loc.py`
+
 <img width="899" alt="Screenshot 2023-08-11 at 10 25 07 PM" src="https://github.com/migaol/linesofcode/assets/45944433/9305f2b4-6231-4a32-a920-bbf791886117">
